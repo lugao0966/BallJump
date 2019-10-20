@@ -1,2 +1,5 @@
-# TheCalculatorApp
-## If you have any questions, please contact our technical support at zfygme@163.com, thank you, we will respond within one working day.
+# Technical Support
+If you encounter any problems while using our products, please feel free to contact us and we will do our best to solve them for you!
+Please contact us by email and we will be at your service 24 hours a day!
+Email address: wangfeibing751559@163.com
+Thank you!
